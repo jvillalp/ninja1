@@ -6,5 +6,6 @@ func main() {
 	// printHuman("Arjun", 26, 5, 1)
 	// printHuman("X", 26, 5, 1)
 	// printHuman("Y", 26, 5, 1)
-	printvars()
+	// printvars()
+	printpackagelevel()
 }
