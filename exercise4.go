@@ -1,16 +1,16 @@
-package main
+// package main
 
-import (
-	"fmt"
-)
+// import (
+// 	"fmt"
+// )
 
-type hotdog int
+// type hotdog int
 
-var x hotdog
+// var x hotdog
 
-func ownvar() {
-	fmt.Println(x)
-	fmt.Printf("%T\n", x)
-	x := 42
-	fmt.Println(x)
-}
+// func ownvar() {
+// 	fmt.Println(x)
+// 	fmt.Printf("%T\n", x)
+// 	x := 42
+// 	fmt.Println(x)
+// }
