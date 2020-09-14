@@ -1,7 +1,7 @@
 package main
 
 func main() {
-	// printHello()
+	printHello()
 	// printHuman("Faby", 26, 5, 1)
 	// printHuman("Arjun", 26, 5, 1)
 	// printHuman("X", 26, 5, 1)
